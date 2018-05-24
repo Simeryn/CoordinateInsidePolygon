@@ -10,6 +10,7 @@
 
 @implementation CoordinateInsidePolygonFile
 
+// to convert degree to radians
 
 + (double)degreeToRadians :(double)paramDegree {
     return paramDegree * M_PI/180;
