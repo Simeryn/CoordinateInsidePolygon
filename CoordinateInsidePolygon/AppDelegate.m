@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  CoordinateInsidePolygon
 //
-//  Created by Apple on 5/24/18.
-//  Copyright © 2018 Apple. All rights reserved.
+//  Created by Simeryn on 5/24/18.
+//  Copyright © 2018 Simeryn. All rights reserved.
 //
 
 #import "AppDelegate.h"
